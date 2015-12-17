@@ -3,7 +3,7 @@ var name, time, place, event;
 name = "Ros";
 time = "19:00";
 place = "Lviv, Comein";
-event = prompt ("");
+event = prompt ("What Ros is going to do tomorrow?");
 var sentense = console.log(name + " is going to be at" + time + " in" + place + " doing some" + event); //краще оголосити змінну тут, чи рядком вище і окремо?
 
 
